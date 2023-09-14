@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/gps-device.dir/main.cpp.o CMakeFiles/gps-device.dir/source.cpp.o CMakeFiles/gps-device.dir/packet.cpp.o  -o gps-device  /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so 

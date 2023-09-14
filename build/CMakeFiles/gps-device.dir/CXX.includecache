@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pcdat/projects/gps-device/header.h
+iostream
+-
+string
+-
+cstring
+-
+vector
+-
+cstdint
+-
+unistd.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+netinet/in.h
+-
+openssl/md5.h
+-
+
+/home/pcdat/projects/gps-device/main.cpp
+header.h
+/home/pcdat/projects/gps-device/header.h
+
+/home/pcdat/projects/gps-device/packet.cpp
+header.h
+/home/pcdat/projects/gps-device/header.h
+
+/home/pcdat/projects/gps-device/source.cpp
+header.h
+/home/pcdat/projects/gps-device/header.h
+

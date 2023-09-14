@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/pcdat/projects/gps-device/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/gps-device.dir/main.cpp.o -c /home/pcdat/projects/gps-device/main.cpp",
+  "file": "/home/pcdat/projects/gps-device/main.cpp"
+},
+{
+  "directory": "/home/pcdat/projects/gps-device/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/gps-device.dir/source.cpp.o -c /home/pcdat/projects/gps-device/source.cpp",
+  "file": "/home/pcdat/projects/gps-device/source.cpp"
+},
+{
+  "directory": "/home/pcdat/projects/gps-device/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/gps-device.dir/packet.cpp.o -c /home/pcdat/projects/gps-device/packet.cpp",
+  "file": "/home/pcdat/projects/gps-device/packet.cpp"
+}
+]
